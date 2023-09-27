@@ -1,13 +1,13 @@
+# 8/16 Bit CPU Info
 
-# CPU Diagrams/Spreadsheets
+This repo contains CPU usage charts and and opcode spreadsheets for a few
+popular CPUs from the 1980's/early 1990's.
 
-This repo contains overview diagrams and opcode spreadsheets for popular CPUs from the 1980's/early 1990's.
-
-Note also that as people build "modern" retrocomputers (AgonLight, Neo6502, etc.), these diagrams/spreadsheets can be used for those projects as well.
-
+Note also that these charts/spreadsheets can also be used for "modern"
+retrocomputers (AgonLight, Neo6502, etc.).
 
 
-## Color Key for the CPU Diagrams and Spreadsheets
+## Color Key for the CPU Charts and Spreadsheets
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -28,7 +28,6 @@ Basically, you are free to:
 * Share — copy and redistribute the material in any medium or format
 * Adapt — remix, transform, and build upon the material for any purpose, even commercially. 
 
-
 Under the following terms:
 
 * Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
@@ -36,6 +35,8 @@ Under the following terms:
 * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 See the LICENSE file for the full license text.
+
+
 ## Authors
 
 - [@spicyjack](https://www.github.com/spicyjack)
@@ -43,6 +44,8 @@ See the LICENSE file for the full license text.
 
 ## Acknowledgements
 
- - The CPU diagrams are based on the diagram of the MOS 6502 CPU that was shown on page 21 of the book ["Inside the Apple IIe"](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up), by Gary P. Little.  You can read the book on [archive.org](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up).
- 
-
+ - The CPU diagrams are based on the diagram of the MOS 6502 CPU that was
+   shown on page 21 of the book ["Inside the Apple
+   IIe"](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up), by
+   Gary P. Little.  You can read the book on
+   [archive.org](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up).
