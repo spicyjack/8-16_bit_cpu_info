@@ -34,7 +34,7 @@ Under the following terms:
 
 * No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-See the LICENSE file for the full license text.
+See the LICENSE file for a link to the full license text.
 
 
 ## Authors
@@ -47,5 +47,5 @@ See the LICENSE file for the full license text.
  - The CPU diagrams are based on the diagram of the MOS 6502 CPU that was
    shown on page 21 of the book ["Inside the Apple
    IIe"](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up), by
-   Gary P. Little.  You can read the book on
+   Gary B. Little.  You can read the book on
    [archive.org](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up).
