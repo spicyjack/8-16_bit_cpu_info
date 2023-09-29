@@ -40,6 +40,7 @@ See the LICENSE file for a link to the full license text.
 ## Authors
 
 - [@spicyjack](https://www.github.com/spicyjack)
+- The 6502 opcodes spreadsheet was originally authored by @lawrencewoodman
 
 
 ## Acknowledgements
@@ -49,3 +50,9 @@ See the LICENSE file for a link to the full license text.
    IIe"](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up), by
    Gary B. Little.  You can read the book on
    [archive.org](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up).
+ - The 6502 opcodes spreadsheet (`6502_machine_language_hex_codes_table.ods`)
+   was originally created by Lawrence Woodman and licensed with a public
+   domain license.  The original is available in the repo
+   https://github.com/lawrencewoodman/machine_language_aids
+
+
