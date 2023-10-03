@@ -8,6 +8,18 @@ retrocomputers (AgonLight, Neo6502, etc.).
 
 
 ## Color Key for the CPU Charts and Spreadsheets
+The cells in the spreadsheet containing the hex values of opcodes have been
+color-coded to show what part of the system the result of the given opcode
+will modify;
+
+* System memory
+* Accumulator and index registers
+* Status register
+* Stack pointer
+* Program counter
+
+The following colors were used in both the opcodes tables spreadsheet and
+system diagrams:
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -40,7 +52,8 @@ See the LICENSE file for a link to the full license text.
 ## Authors
 
 - [@spicyjack](https://www.github.com/spicyjack)
-- The 6502 opcodes spreadsheet was originally authored by @lawrencewoodman
+- The 6502 opcodes spreadsheet was originally authored by
+  [@lawrencewoodman](https://www.github.com/lawrencewoodman)
 
 
 ## Acknowledgements
@@ -48,7 +61,7 @@ See the LICENSE file for a link to the full license text.
  - The CPU diagrams are based on the diagram of the MOS 6502 CPU that was
    shown on page 21 of the book ["Inside the Apple
    IIe"](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up), by
-   Gary B. Little.  You can read the book on
+   Gary B. Little.  You can read and download this book on
    [archive.org](https://archive.org/details/InsideTheAppleIIe/page/n39/mode/1up).
  - The 6502 opcodes tables spreadsheet `6502_opcodes_tables.ods` was
    originally created by Lawrence Woodman and licensed with a public domain
